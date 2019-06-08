@@ -20,3 +20,8 @@ CountVectorizer() is used to convert a messages to a matrix of token counts.
 Finally, MultinomialNB() is used to train the model using "message" and "target".
 
 An example input is given to classify text as "spam" and "ham".
+
+
+In future, I will intergrate it with a streaming input (probably real-time email) to classify real time.
+
+Also, train- test split will be used.
