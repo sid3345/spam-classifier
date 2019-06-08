@@ -2,7 +2,7 @@
 
 Classifies text as "spam" or "ham" (non-spam) using the Naïve Bayes Classifier. 
 
-The Naïve Bayesian Classifier is very simple and efficient method for spam classification. 
+The Naïve Bayes Classifier is very simple and efficient method for spam classification. 
 
 Email dataset is provided along to train- test.
 
