@@ -7,11 +7,13 @@ The Naïve Bayesian Classifier is very simple and efficient method for spam clas
 Email dataset is provided along to train- test.
 
 
+
 Function description:
 
 readFiles(path): Opens dataset files from directory paths mentioned, reads it and extracts message from it and closes it.
 
 dataFrameFromDirectory(path, classification): Takes directory path and classification as input parameters to form a dataframe and arranges it as "message" and "class" in the dataframe.
+
 
 
 CountVectorizer() is used to convert a messages to a matrix of token counts.
