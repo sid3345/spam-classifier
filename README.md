@@ -6,7 +6,7 @@ The Naïve Bayesian Classifier is very simple and efficient method for spam clas
 
 Email dataset is provided along to train- test.
 
-
+ 
 
 Function description:
 
